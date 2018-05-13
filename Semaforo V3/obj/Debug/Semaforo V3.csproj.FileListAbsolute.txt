@@ -1,0 +1,27 @@
+c:\users\martersb\documents\visual studio 2013\Projects\Semaforo V3\Semaforo V3\bin\Debug\Semaforo V3.exe.config
+c:\users\martersb\documents\visual studio 2013\Projects\Semaforo V3\Semaforo V3\bin\Debug\Semaforo V3.exe
+c:\users\martersb\documents\visual studio 2013\Projects\Semaforo V3\Semaforo V3\bin\Debug\Semaforo V3.pdb
+c:\users\martersb\documents\visual studio 2013\Projects\Semaforo V3\Semaforo V3\obj\Debug\Semaforo V3.csprojResolveAssemblyReference.cache
+c:\users\martersb\documents\visual studio 2013\Projects\Semaforo V3\Semaforo V3\obj\Debug\Semaforo_V3.Form1.resources
+c:\users\martersb\documents\visual studio 2013\Projects\Semaforo V3\Semaforo V3\obj\Debug\Semaforo_V3.Properties.Resources.resources
+c:\users\martersb\documents\visual studio 2013\Projects\Semaforo V3\Semaforo V3\obj\Debug\Semaforo V3.csproj.GenerateResource.Cache
+c:\users\martersb\documents\visual studio 2013\Projects\Semaforo V3\Semaforo V3\obj\Debug\Semaforo V3.exe
+c:\users\martersb\documents\visual studio 2013\Projects\Semaforo V3\Semaforo V3\obj\Debug\Semaforo V3.pdb
+C:\Users\Edsel\Downloads\Semaforo V3\Semaforo V3\bin\Debug\Semaforo V3.exe.config
+C:\Users\Edsel\Downloads\Semaforo V3\Semaforo V3\obj\Debug\Semaforo V3.exe
+C:\Users\Edsel\Downloads\Semaforo V3\Semaforo V3\obj\Debug\Semaforo V3.pdb
+C:\Users\Edsel\Downloads\Semaforo V3\Semaforo V3\bin\Debug\Semaforo V3.exe
+C:\Users\Edsel\Downloads\Semaforo V3\Semaforo V3\bin\Debug\Semaforo V3.pdb
+C:\Users\Edsel\Downloads\Semaforo V3\Semaforo V3\obj\Debug\Semaforo V3.csprojResolveAssemblyReference.cache
+C:\Users\Edsel\Downloads\Semaforo V3\Semaforo V3\obj\Debug\Semaforo_V3.Form1.resources
+C:\Users\Edsel\Downloads\Semaforo V3\Semaforo V3\obj\Debug\Semaforo_V3.Properties.Resources.resources
+C:\Users\Edsel\Downloads\Semaforo V3\Semaforo V3\obj\Debug\Semaforo V3.csproj.GenerateResource.Cache
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Semaforo V3\Semaforo V3\bin\Debug\Semaforo V3.exe.config
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Semaforo V3\Semaforo V3\obj\Debug\Semaforo V3.exe
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Semaforo V3\Semaforo V3\obj\Debug\Semaforo V3.pdb
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Semaforo V3\Semaforo V3\bin\Debug\Semaforo V3.exe
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Semaforo V3\Semaforo V3\bin\Debug\Semaforo V3.pdb
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Semaforo V3\Semaforo V3\obj\Debug\Semaforo V3.csprojResolveAssemblyReference.cache
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Semaforo V3\Semaforo V3\obj\Debug\Semaforo_V3.Form1.resources
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Semaforo V3\Semaforo V3\obj\Debug\Semaforo_V3.Properties.Resources.resources
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Semaforo V3\Semaforo V3\obj\Debug\Semaforo V3.csproj.GenerateResource.Cache
